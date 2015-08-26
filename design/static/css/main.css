@@ -1,0 +1,19 @@
+.header{
+	background: #428bca;
+	height: 46px;
+	line-height: 46px;
+	color: #FFF;
+}
+
+#logo{
+	font-size: 22px;
+	width: 150px;
+	height: inherit;
+	text-align: center;
+	background: transparent;
+}
+
+.header .nav-menu{
+	color: #000;
+	display: inline-block;
+}
