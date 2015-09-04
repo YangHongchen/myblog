@@ -1,0 +1,16 @@
+.index-article-group {
+	margin-top: 20px;
+}
+
+.index-article-item{
+	padding: 15px;
+}
+
+
+.index-article-thumbnail{
+  float: left;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  display: table;
+}
